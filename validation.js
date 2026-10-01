@@ -1,5 +1,3 @@
-//let validation = []; 
-
 const form = document.getElementById("form-inscription");
  
 function erreur(id, message) {
